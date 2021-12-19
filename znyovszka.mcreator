@@ -1,0 +1,65 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ZnyovszkaTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "znyovszka_tab"
+    },
+    {
+      "name": "BlueZnyovszkovium",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_znyovszkovium_ore"
+    },
+    {
+      "name": "BlueZnyovszkoviumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_znyovszkovium_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.znyovszka.blue_znyovszkovium_ore": "Blue Znyovszkovium Ore",
+      "itemGroup.tabznyovszka_tab": "Znyovszka",
+      "block.znyovszka.blue_znyovszkovium_block": "Blue Znyovszkovium Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "znyovszka",
+    "modName": "Znyovszka - by RageTeam",
+    "version": "1.0: Snapshot 21w49a",
+    "description": "A RageMod additional mod",
+    "author": "CrashGyuluka, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.znyovszka",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100351610
+}

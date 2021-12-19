@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "znyovszka:blocks/blue_znyovszkovium_block",
+    "particle": "znyovszka:blocks/blue_znyovszkovium_block"
+  }
+}

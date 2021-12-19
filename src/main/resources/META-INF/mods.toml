@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="znyovszka"
+version="1.0: Snapshot 21w49a"
+displayName="Znyovszka - by RageTeam"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="CrashGyuluka, MCreator"
+description='''
+A RageMod additional mod
+'''
+
+[[dependencies.znyovszka]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
